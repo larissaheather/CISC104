@@ -1,0 +1,6 @@
+/Users/larissaheather/Projects/Hello_World/Hello_World/bin/Debug/Hello_World.exe
+/Users/larissaheather/Projects/Hello_World/Hello_World/bin/Debug/Hello_World.pdb
+/Users/larissaheather/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.csproj.AssemblyReference.cache
+/Users/larissaheather/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.csproj.CoreCompileInputs.cache
+/Users/larissaheather/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.exe
+/Users/larissaheather/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.pdb
